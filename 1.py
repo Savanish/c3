@@ -6,5 +6,8 @@ for i in range(5):
 print("First string in master branch")
 print("Second string in master branch")
 print("First string in new branch")
-print("Second stroing in test branch")
+print("Second string in test branch")
+
+print("this code for github")
+print("This string from second user")
 
